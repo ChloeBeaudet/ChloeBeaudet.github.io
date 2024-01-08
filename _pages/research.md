@@ -20,14 +20,14 @@ author_profile: true
 
 ## Work in progress
 
-**Spatially allocating preferences derived from a choice experiment**, _with Léa Tardieu, Romain Crastes dit Sourd and Maia David_
+* **Spatially allocating preferences derived from a choice experiment**, _with Léa Tardieu, Romain Crastes dit Sourd and Maia David_
 
-**Planning sustainable lighting for biodiversity and society**, _with Sarah Potin, Julie Chaurand, Léa Mariton, Anne-Charlotte Vaissière, Maia David and Léa Tardieu_
+* **Planning sustainable lighting for biodiversity and society**, _with Sarah Potin, Julie Chaurand, Léa Mariton, Anne-Charlotte Vaissière, Maia David and Léa Tardieu_
 
 
 
 ## Non peer-reviewed articles and opinion papers
 
-[Éclairage public : les Français sont-ils prêts à éteindre la lumière ?](https://theconversation.com/eclairage-public-les-francais-sont-ils-prets-a-eteindre-la-lumiere-194702) in The Conversation (2022), _with Léa Tardieu, Maia David, Christine Jez and Jennifer Amsallem_
+* [Éclairage public : les Français sont-ils prêts à éteindre la lumière ?](https://theconversation.com/eclairage-public-les-francais-sont-ils-prets-a-eteindre-la-lumiere-194702) in The Conversation (2022), _with Léa Tardieu, Maia David, Christine Jez and Jennifer Amsallem_
 
-[Leveling Up - Impacts of Performance-Based Grants on Municipal Revenue Collection in Mozambique](https://documents1.worldbank.org/curated/en/546161633368256921/pdf/Leveling-Up-Impacts-of-Performance-Based-Grants-on-Municipal-Revenue-Collection-in-Mozambique.pdf) World Bank, Policy Research Working Paper 9789 (2021), _with Alvina Erman and Carla Solis Uehara_
+* [Leveling Up - Impacts of Performance-Based Grants on Municipal Revenue Collection in Mozambique](https://documents1.worldbank.org/curated/en/546161633368256921/pdf/Leveling-Up-Impacts-of-Performance-Based-Grants-on-Municipal-Revenue-Collection-in-Mozambique.pdf) World Bank, Policy Research Working Paper 9789 (2021), _with Alvina Erman and Carla Solis Uehara_
