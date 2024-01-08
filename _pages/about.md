@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in environmental economics at [Paris-Saclay Applied Economics](https://eng-psae.versailles-grignon.hub.inrae.fr/) (INRAE, AgroParisTech, Paris-Saclay University), under the supervision of [Maia David](https://eng-psae.versailles-grignon.hub.inrae.fr/personalpages/david) and [Léa Tardieu](https://leatardieu.wordpress.com/). My thesis focuses on the socio-economic impacts of light pollution reduction policies in urban and periurban areas. I mainly rely on empirical tools: econometric methods for impact evaluation, spatial econometrics, non-market valuation methods.
+<p align="justify">I am a PhD candidate in environmental economics at [Paris-Saclay Applied Economics](https://eng-psae.versailles-grignon.hub.inrae.fr/) (INRAE, AgroParisTech, Paris-Saclay University), under the supervision of [Maia David](https://eng-psae.versailles-grignon.hub.inrae.fr/personalpages/david) and [Léa Tardieu](https://leatardieu.wordpress.com/). My thesis focuses on the socio-economic impacts of light pollution reduction policies in urban and periurban areas. I mainly rely on empirical tools: econometric methods for impact evaluation, spatial econometrics, non-market valuation methods.</p>
 
-Research interests: Sustainable lighting, light pollution, spatial and causal econometrics, public policy, non-market evaluation methods (Discrete choice experiments)
+<p align="justify">Research interests: Sustainable lighting, light pollution, spatial and causal econometrics, public policy, non-market evaluation methods (Discrete choice experiments)</p>
