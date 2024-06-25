@@ -20,7 +20,7 @@ author_profile: true
 
 ## Work in progress
 
-* **Spatially allocating preferences derived from a choice experiment**, _with Léa Tardieu, Romain Crastes dit Sourd and Maia David_
+* **Mapping preferences derived from a choice experiment**, _with Léa Tardieu, Romain Crastes dit Sourd and Maia David_
 
 * **Planning sustainable lighting for biodiversity and society**, _with Sarah Potin, Julie Chaurand, Léa Mariton, Anne-Charlotte Vaissière, Maia David and Léa Tardieu_
 
