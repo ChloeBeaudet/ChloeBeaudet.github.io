@@ -22,7 +22,7 @@ author_profile: true
 
 * **Mapping preferences derived from a choice experiment**, _with Léa Tardieu, Romain Crastes dit Sourd and Maia David_
 
-* **Planning sustainable lighting for biodiversity and society**, _with Sarah Potin, Julie Chaurand, Léa Mariton, Anne-Charlotte Vaissière, Maia David and Léa Tardieu_
+* **Planning sustainable lighting for biodiversity and society**, _with Léa Tardieu, Sarah Potin, Julie Chaurand, Léa Mariton, and Maia David_
 
 
 
