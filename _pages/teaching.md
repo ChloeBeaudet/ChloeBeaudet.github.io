@@ -15,4 +15,4 @@ author_profile: true
 
 ## Lectures
 
-- Introduction to econometrics, AgroParisTech, Pr. Elodie Rouvière - 3h
+- Introduction to econometrics, AgroParisTech, Pr. Elodie Rouvière (Bachelor level, Fall 2023, Fall 2024) - 6h
