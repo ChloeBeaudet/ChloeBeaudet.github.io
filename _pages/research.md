@@ -38,7 +38,7 @@ author_profile: true
 
 ## Non peer-reviewed articles and opinion papers
 
-* [Éclairer la ville ou protéger la biodiversité : faux dilemme](https://theconversation.com/eclairage-public-les-francais-sont-ils-prets-a-eteindre-la-lumiere-194702](https://theconversation.com/eclairer-la-ville-ou-proteger-la-biodiversite-faux-dilemme-254904 ) in The Conversation (2025), _with Léa Tardieu, léa Mariton, and Maia David_
+* [Éclairer la ville ou protéger la biodiversité : faux dilemme](https://theconversation.com/eclairer-la-ville-ou-proteger-la-biodiversite-faux-dilemme-254904) in The Conversation (2025), _with Léa Tardieu, léa Mariton, and Maia David_
 
 * [Éclairage public : les Français sont-ils prêts à éteindre la lumière ?](https://theconversation.com/eclairage-public-les-francais-sont-ils-prets-a-eteindre-la-lumiere-194702) in The Conversation (2022), _with Léa Tardieu, Maia David, Christine Jez and Jennifer Amsallem_
 
