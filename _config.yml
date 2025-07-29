@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chloé Beaudet"
 title_separator          : "-"
 name                     : &name "Chloé Beaudet"
-description              : &description "Ph.D. Candidate in Environmental Economics"
+description              : &description "Ph.D. candidate in Environmental Economics"
 url                      : https://ChloeBeaudet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChloeBeaudet.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : chloe_beaudet
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chloé Beaudet"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Environmental Economics"
+  bio              : "PhD candidate in Environmental Economics"
   location         : "Paris"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NG28_uYAAAAJ&hl=fr"
-  email            : chloe.beaudet@inrae.fr
+  email            : chloe.beaudet5@gmail.com
   researchgate     :  
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "chloe_beaudet"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
